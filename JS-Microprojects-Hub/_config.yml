@@ -1,0 +1,13 @@
+titel: My Awesome Theme Projects
+theme:jekyll-theme-cayman
+
+title: Explore Engaging HTML, CSS, and JavaScript Frontend Projects ,clean design with smooth scrolling
+
+url: "https://vanshchaudhary123.github.io"
+
+include: [README.md]
+
+plugins:
+
+  - jekyll-feed
+  - jekyll-seo-tag
